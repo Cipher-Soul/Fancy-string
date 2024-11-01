@@ -10,8 +10,10 @@ export default function Card() {
 
   //main code for fancy string
   /*
-    hear we take a string
-    remove letters which are more than to 
+    ek string lenge 
+    usme se duplicate continuas 
+    leeter jo do se jyada bar aye
+     ho unhe hatta denge
   */
   
   function fancyString(){
